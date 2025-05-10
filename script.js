@@ -1,0 +1,9 @@
+let p1 = "Las tecnologías web como HTML, CSS y JavaScript han sido fundamentales en mi formación, ya que me han permitido desarrollar una comprensión más profunda sobre cómo se construye la infraestructura de la web. En el contexto de mis estudios en arte y programación, estas herramientas se presentan como el puente entre la creatividad y la funcionalidad, permitiéndome no solo diseñar, sino también implementar ideas interactivas. Sin embargo, aunque las posibilidades son vastas, las limitaciones inherentes de cada lenguaje me hacen cuestionar hasta qué punto realmente permiten la libertad creativa que muchos buscamos. ¿Hasta qué punto las estructuras predeterminadas del HTML y las restricciones de CSS limitan la innovación? Y, por otro lado, ¿pueden las funcionalidades de JavaScript llegar a ser tan complejas que nos alejan de lo que originalmente consideramos 'creativo'?";
+
+let p2 = "El potencial de estas tecnologías es inmenso, especialmente cuando las integramos en proyectos artísticos y experimentales. Para mi trabajo creativo, veo un amplio campo de posibilidades para combinar la programación con el arte digital, creando experiencias interactivas que respondan al usuario, transformando la web en un lienzo dinámico y participativo. Sin embargo, a menudo me pregunto si, a medida que nos adentramos en lenguajes cada vez más sofisticados, estamos perdiendo algo en el proceso. La interacción se convierte en una serie de comandos y scripts, y, en ocasiones, parece que la tecnología ocupa el centro del escenario, mientras que la esencia artística pasa a un segundo plano. ¿Podemos realmente mantener un balance entre la programación técnica y la libertad de expresión artística en un entorno tan estructurado como la web?";
+
+document.getElementById('parr1').innerHTML = p1;
+document.getElementById('parr2').innerHTML = p2;
+
+console.log(p1.length);
+console.log(p2.length);

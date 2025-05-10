@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue; 
+    font-family: Arial, sans-serif;
+}
+
+h1 {
+    color: darkslategray; 
+    text-align: justify;
+    text-align: center;
+}
+
+div {
+    background-color: lavender; 
+    padding: 20px;
+    border-radius: 8px;
+}
+
+p {
+    color: darkslategray; 
+    font-size: 16px; 
+    line-height: 1.5; 
+    text-align: justify;
+}
